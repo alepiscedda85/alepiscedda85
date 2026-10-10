@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="t d">
+<title id="t">Alessio Piscedda - Strategie Digitali</title><desc id="d">Animated violet and graphite developer banner</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080b16"/><stop offset="1" stop-color="#171027"/></linearGradient><linearGradient id="line"><stop stop-color="#7e43ed"/><stop offset="1" stop-color="#c49aff"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#b580ff" stroke-opacity=".08"/></pattern></defs>
+<rect width="1200" height="330" rx="22" fill="url(#bg)"/><rect width="1200" height="330" rx="22" fill="url(#grid)"/>
+<path d="M40 20H1160M40 310H1160" stroke="url(#line)" stroke-opacity=".45"/>
+<g font-family="monospace" fill="#a860ff"><text x="65" y="65" font-size="17">~/strategie-digitali/profile</text><text x="1050" y="65" font-size="16">● ONLINE</text></g>
+<g font-family="Arial,Helvetica,sans-serif"><text x="65" y="150" font-size="57" font-weight="750" fill="#f4f1ff">ALESSIO <tspan fill="#b784ff">PISCEDDA</tspan></text><text x="68" y="193" font-size="23" fill="#c3b9d7">Full Stack Developer  /  AI Engineering  /  Creative Technology</text><text x="68" y="257" font-size="19" fill="#a8a1bc">Founder of STRATEGIE DIGITALI  ·  Building experiences beyond the ordinary.</text></g>
+<g fill="none" stroke="#ad71ff" opacity=".75"><path d="M965 120l-52 39 52 39M1055 120l52 39-52 39M1026 105l-32 108" stroke-width="8" stroke-linecap="round"><animate attributeName="opacity" values=".4;1;.4" dur="4s" repeatCount="indefinite"/></path><circle cx="1010" cy="161" r="108" stroke-opacity=".18" stroke-dasharray="7 12"><animateTransform attributeName="transform" type="rotate" from="0 1010 161" to="360 1010 161" dur="45s" repeatCount="indefinite"/></circle></g>
+</svg>
