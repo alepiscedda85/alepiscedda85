@@ -1,114 +1,122 @@
-# Ciao, sono Alessio Piscedda 👋
+<div align="center">
 
-**Full Stack Developer | Full Stack Software Developer certificato IBM | Founder di Strategie Digitali**
+![Alessio Piscedda — Strategie Digitali](./assets/profile-banner.svg)
 
-Sono uno sviluppatore full stack con focus su applicazioni web, backend, frontend, automazioni e infrastrutture digitali.
+### Engineering × Design × Artificial Intelligence
 
-Lavoro su progetti reali per aziende, professionisti e realtà digitali, occupandomi sia della parte tecnica sia dell’organizzazione del workflow di sviluppo: dalla progettazione del codice alla gestione del repository, fino al deploy su server.
+**Full Stack Developer · IBM Certified · Founder of [Strategie Digitali](https://www.strategiedigitali.eu)**
 
----
+[![Website](https://img.shields.io/badge/Portfolio-strategiedigitali.eu-a860ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.strategiedigitali.eu)
+[![GitHub](https://img.shields.io/badge/GitHub-alepiscedda85-181825?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alepiscedda85)
+[![Location](https://img.shields.io/badge/Italy-Pescocostanzo-6540a0?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.openstreetmap.org/search?query=Pescocostanzo)
 
-## 🚀 Cosa faccio
+</div>
 
-Mi occupo di sviluppo software e web development con un approccio pratico, ordinato e orientato alla produzione.
+## `01 / SYSTEM PROFILE`
 
-- Sviluppo applicazioni web full stack
-- Realizzo backend API e architetture server-side
-- Creo frontend moderni, performanti e responsive
-- Integro servizi esterni, automazioni e strumenti digitali
-- Lavoro con ambienti Docker, VPS Linux e deploy manuali
-- Gestisco repository Git/GitHub con workflow professionali
-- Collaboro con aziende, freelance, agenzie e altre realtà digitali
+![Terminal — Alessio Piscedda](./assets/profile-terminal.svg)
 
----
+Ciao, sono **Alessio Piscedda**. Progetto e sviluppo esperienze digitali, applicazioni full stack, integrazioni API, automazioni e sistemi AI-oriented. Con **Strategie Digitali** unisco engineering e direzione creativa: dall'architettura software all'interfaccia, dal repository al deploy.
 
-## 🤝 Collaborazioni
+Mi interessano soprattutto prodotti **performanti, accessibili, manutenibili e realmente utilizzabili**.
 
-Sono aperto a collaborazioni con:
+## `02 / TECH STACK`
 
-- agenzie web e software house
-- startup e PMI
-- freelance e team tecnici
-- consulenti digitali
-- realtà che hanno bisogno di supporto full stack
-- progetti custom su backend, frontend, API, automazioni e piattaforme web
+| Area | Tecnologie |
+| :--- | :--- |
+| **Frontend & 3D** | JavaScript, TypeScript, React, Vite, HTML, CSS, Three.js, WebGL |
+| **Backend & APIs** | Node.js, Fastify, Python, Flask, PHP, REST APIs |
+| **CMS & Data** | WordPress Headless, PostgreSQL, MongoDB, Redis |
+| **DevOps & Cloud** | Git, GitHub Actions, Docker, Linux, VPS, CI/CD |
+| **AI & Automation** | AI Engineering, agentic workflows, LLM integrations, automation |
 
-Posso intervenire sia su progetti nuovi che su codice già esistente, aiutando nella progettazione, nello sviluppo, nel refactoring o nella messa online.
+> Stack rappresentativo delle tecnologie e degli ambiti su cui lavoro; non un elenco di certificazioni per ciascun tool.
 
----
+## `03 / SELECTED WORK`
 
-## 🛠️ Tech stack
+<table>
+<tr>
+<td width="50%">
 
-Python · Flask · JavaScript · React · Vite · Node.js · Docker · Linux · Git · GitHub · WordPress Headless
+### [Strategie Digitali](https://www.strategiedigitali.eu)
 
-REST API · Backend Development · Frontend Development · VPS Deploy · Web Performance · Automation
+**Creative engineering · WebGL · React**
 
----
+Esperienze web immersive, branding digitale e sviluppo custom: incontro tra design, 3D e frontend moderno.
 
-## 🧠 Competenze principali
+</td>
+<td width="50%">
 
-- Full Stack Web Development
-- Full Stack Software Development
-- Backend API Development
-- Frontend Development
-- Git & GitHub Workflow
-- Docker-based Development
-- Linux Server Management
-- WordPress Headless
-- Web Automation
-- Deploy su VPS
+### SYNAPSE
 
----
+**Agent orchestration · Fastify · React**
 
-## 🎓 Certificazioni
+Piattaforma interna di orchestrazione, integrazioni e policy per i workflow di Strategie Digitali.
 
-- **IBM Full Stack Software Developer Certificate**
+*Progetto interno: repository non linkata se privata.*
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-## 🧩 Metodo di lavoro
+### SuperSimple CRM
 
-Credo in un workflow semplice, pulito e professionale:
+**CRM · APIs · Automation**
 
-Analisi → Sviluppo locale → Git/GitHub → Test → Deploy → Manutenzione
+Sistema operativo per prospecting, gestione contatti e workflow commerciali.
 
-Nel mio lavoro do importanza a:
+*Progetto interno: repository non linkata se privata.*
 
-- codice leggibile
-- repository ordinate
-- commit chiari
-- branch strategy sensata
-- deploy controllati
-- documentazione essenziale
-- soluzioni mantenibili nel tempo
+</td>
+<td width="50%">
 
----
+### [GitHub Portfolio](https://github.com/alepiscedda85?tab=repositories)
 
-## 🌍 Strategie Digitali
+**Engineering · Open source · Learning**
 
-Sono founder di **Strategie Digitali**, realtà attraverso cui sviluppo soluzioni digitali per aziende, professionisti e attività locali.
+Esperimenti tecnici, esercizi e progetti pubblici consultabili direttamente dalle repository disponibili.
 
-Mi occupo di trasformare esigenze operative in strumenti digitali concreti: siti web, applicazioni, automazioni, backend, integrazioni e piattaforme personalizzate.
+</td>
+</tr>
+</table>
 
-🌐 [strategiedigitali.eu](https://www.strategiedigitali.eu)
+## `04 / LIVE ACTIVITY`
 
----
+<div align="center">
 
-## 📌 Attualmente
+[![GitHub followers](https://img.shields.io/github/followers/alepiscedda85?style=flat-square&label=Followers&color=a860ff)](https://github.com/alepiscedda85?tab=followers)
+[![Public repositories](https://img.shields.io/badge/Repositories-Explore%20GitHub-a860ff?style=flat-square&logo=github)](https://github.com/alepiscedda85?tab=repositories)
 
-- Sto lavorando su progetti web full stack per clienti reali
-- Sto consolidando workflow professionali con Git, GitHub, Docker e VPS Linux
-- Sto sviluppando soluzioni custom basate su Python, Flask, React e WordPress Headless
-- Sono interessato a collaborazioni tecniche con altre realtà digitali
+**[→ Esplora il calendario dei contributi e l'attività aggiornata sul mio profilo GitHub](https://github.com/alepiscedda85)**
 
----
+</div>
 
-## 📫 Contatti
+I dati dinamici utilizzano endpoint pubblici; non sono mostrati numeri di commit, stelle o righe di codice non verificati. Le repository private non vengono rese pubbliche da questo README.
 
-- GitHub: [@alepiscedda85](https://github.com/alepiscedda85)
-- Website: [strategiedigitali.eu](https://www.strategiedigitali.eu)
-- Location: Pescocostanzo, Italy
+## `05 / HOW I BUILD`
 
----
+```text
+DISCOVER  →  DESIGN  →  ARCHITECT  →  BUILD  →  TEST  →  DEPLOY  →  ITERATE
+```
 
-> Costruisco soluzioni digitali concrete, mantenibili e pensate per funzionare nel mondo reale.
+- **Design-driven engineering:** attenzione a UX, prestazioni e dettagli.
+- **Production-first mindset:** codice comprensibile, test, versionamento e deployment controllato.
+- **AI as a tool:** integrazioni concrete e automazioni con supervisione e sicurezza.
+- **Continuous learning:** formazione e sperimentazione su stack moderni.
+
+## `06 / CERTIFICATIONS & COLLABORATION`
+
+🎓 **IBM Full Stack Software Developer Professional Certificate**
+
+Collaboro con aziende, freelance, agenzie e team su applicazioni, frontend, backend, integrazioni API e prodotti digitali.
+
+<div align="center">
+
+### Have a project in mind?
+
+**[Visit Strategie Digitali →](https://www.strategiedigitali.eu)** · **[Explore my repositories →](https://github.com/alepiscedda85?tab=repositories)**
+
+<sub>Designed with purpose · Built with code · Powered by curiosity</sub>
+
+</div>
